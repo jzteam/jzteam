@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### 奖杯 
 
 <p>
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=LouisLiu00&theme=onedark&column=-1&margin-w=15" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=jzteam&theme=onedark&column=-1&margin-w=15" />
 </p>
 
+### 活跃度
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouisLiu00&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jzteam&theme=merko&custom_title=jzteam活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/jzteam)
